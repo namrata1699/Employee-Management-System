@@ -1,0 +1,43 @@
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  
+  padding: 20px;
+}
+
+
+.main_body{
+	margin-left:30%;
+	
+}
+
+.ppart{
+	border-style: groove;
+	padding: 20px;
+	width:30%;
+	background-color:#cedbff;
+	margin-left:15%;
+}
+
+#aa{
+	border-style: outset;
+	padding: 20px;
+	width:30%;
+}
+
+.titledata{
+	border-style: dashed;
+	text-align:center;
+	border-color: #F6F6F6;
+	background-color:#753840;
+	padding:10px;
+	font-size:35px;
+	margin-left:5%;
+	margin-right:5%;
+}
+
+
+tr:hover {background-color:#008000;}
