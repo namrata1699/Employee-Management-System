@@ -78,8 +78,8 @@ th {
 						$mail -> Host = "smtp.gmail.com";
 						$mail -> Port = 465 ;//Or 587
 						$mail -> IsHTML(true);
-						$mail -> Username = "namrata.t.imca16@ahduni.edu.in";
-						$mail -> Password = "namrata8460338773";
+						$mail -> Username = "yourmail@gmail.com";
+						$mail -> Password = "yourpassword";
 						$mail -> SetFrom("namrata.t.imca16@ahduni.edu.in");
 						$mail -> Subject = $subject;
 						$mail -> Body = $bdy;
@@ -143,8 +143,8 @@ th {
 						$mail -> Host = "smtp.gmail.com";
 						$mail -> Port = 465 ;//Or 587
 						$mail -> IsHTML(true);
-						$mail -> Username = "namrata.t.imca16@ahduni.edu.in";
-						$mail -> Password = "namrata8460338773";
+						$mail -> Username = "yourmail@gmail.com";
+						$mail -> Password = "yourpassword";
 						$mail -> SetFrom("namrata.t.imca16@ahduni.edu.in");
 						$mail -> Subject = $subject;
 						$mail -> Body = $bdy;
